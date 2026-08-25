@@ -1,0 +1,10 @@
+text="CODINGAL"
+reverse=text[::-1]
+print(reverse)
+print(len(text))
+print(text[0:6])
+firstname="Anaya"
+secondname="moondra"
+print(firstname+secondname)
+print(firstname[0])
+print(firstname.upper())
