@@ -1,0 +1,7 @@
+print("=== MY DAILY ROUTINE ===")
+print("1. Wake up at 7:00 AM")
+print("2. Go to school")
+print("3. Play with friends")
+print("4. Study for 2 hours")
+print("Total study time in a week (hours):")
+print(2 * 7)
