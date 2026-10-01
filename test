@@ -1,0 +1,11 @@
+import random 
+number=random.randint(1,50)
+
+while True:
+    guess=int(input("guess the number"))
+    if guess == number:
+        print("you win the game")
+        break 
+    else:
+         print("you lose the game")
+   
